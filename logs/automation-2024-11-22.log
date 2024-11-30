@@ -1,0 +1,66 @@
+21:07:09.887 [main] INFO  testCases.TC002_LoginTest - **Test Started**
+21:07:13.312 [main] INFO  testCases.TC002_LoginTest - **Test Finished**
+21:10:37.306 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Anil kumar N\eclipse-workspace\Opencart_V121\grouping.xml
+
+21:10:43.740 [main] INFO  testCases.TC001_AccountRegistrationTest - ****** Starting TC001_AccountRegistrationTest *****
+21:10:44.131 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account Link
+21:10:45.025 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Register Link
+21:10:45.029 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details..
+21:10:47.952 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message..
+21:10:48.037 [main] INFO  testCases.TC001_AccountRegistrationTest - ****** Finished TC001_AccountRegistrationTest *****
+21:10:57.638 [main] INFO  testCases.TC002_LoginTest - **Test Started**
+21:19:37.394 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Anil kumar N\eclipse-workspace\Opencart_V121\grouping.xml
+
+21:19:44.325 [main] INFO  testCases.TC001_AccountRegistrationTest - ****** Starting TC001_AccountRegistrationTest *****
+21:19:45.391 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account Link
+21:19:46.105 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Register Link
+21:19:46.110 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details..
+21:19:48.641 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message..
+21:19:48.743 [main] INFO  testCases.TC001_AccountRegistrationTest - ****** Finished TC001_AccountRegistrationTest *****
+21:19:58.663 [main] INFO  testCases.TC002_LoginTest - **Test Started**
+21:38:53.801 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Anil kumar N\eclipse-workspace\Opencart_V121\grouping.xml
+
+21:38:59.825 [main] INFO  testCases.TC001_AccountRegistrationTest - ****** Starting TC001_AccountRegistrationTest *****
+21:39:00.366 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account Link
+21:39:01.312 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Register Link
+21:39:01.316 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details..
+21:39:05.021 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message..
+21:39:05.092 [main] INFO  testCases.TC001_AccountRegistrationTest - ****** Finished TC001_AccountRegistrationTest *****
+21:39:13.396 [main] INFO  testCases.TC002_LoginTest - **Test Started**
+21:39:15.566 [main] INFO  testCases.TC002_LoginTest - **Test Finished**
+21:42:15.905 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Anil kumar N\eclipse-workspace\Opencart_V121\grouping.xml
+
+21:42:21.405 [main] INFO  testCases.TC001_AccountRegistrationTest - ****** Starting TC001_AccountRegistrationTest *****
+21:42:21.737 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account Link
+21:42:22.943 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Register Link
+21:42:22.948 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details..
+21:42:25.277 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message..
+21:42:33.855 [main] INFO  testCases.TC002_LoginTest - **Test Started**
+21:42:35.904 [main] INFO  testCases.TC002_LoginTest - **Test Finished**
+22:20:22.749 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Anil kumar N\eclipse-workspace\Opencart_V121\Master.xml
+
+22:20:44.726 [main] INFO  testCases.TC001_AccountRegistrationTest - ****** Starting TC001_AccountRegistrationTest *****
+22:20:45.491 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account Link
+22:20:47.906 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Register Link
+22:20:47.909 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details..
+22:20:49.346 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message..
+22:20:49.449 [main] INFO  testCases.TC001_AccountRegistrationTest - ****** Finished TC001_AccountRegistrationTest *****
+22:20:59.481 [main] INFO  testCases.TC002_LoginTest - **Test Started**
+22:21:00.924 [main] INFO  testCases.TC002_LoginTest - **Test Finished**
+22:52:52.567 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Anil kumar N\eclipse-workspace\Opencart_V121\Master.xml
+
+22:55:09.398 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Anil kumar N\eclipse-workspace\Opencart_V121\Master.xml
+
+22:57:50.411 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Anil kumar N\eclipse-workspace\Opencart_V121\Master.xml
+
+22:58:34.459 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Anil kumar N\eclipse-workspace\Opencart_V121\grouping.xml
+
